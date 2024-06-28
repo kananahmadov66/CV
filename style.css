@@ -1,0 +1,56 @@
+.full {
+    height: 720px;
+    width: 800px;
+    background-color: #D8EFD3;
+}
+
+
+
+
+.section1 {
+    position: relative;
+    background-color: #FFFED3;
+    height: 720px;
+    width: 300px;
+}
+
+.aboutme, .language, .contactme {
+    position: relative;
+    left: 10px;
+    top: 10px;
+    width: 250px;
+}
+
+.picture img {
+    position: relative;
+    left: 10px;
+    top: 10px;
+    border: solid #D8EFD3;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+
+
+
+.section2 .education, .programming, .achievements, .hobbies{
+    position: relative;
+    left: 370px;
+    width: 250px;
+}
+.education {
+    bottom: 720px;
+}
+
+.programming {
+    bottom: 700px;
+}
+
+.achievements {
+    bottom: 680px;
+}
+
+.hobbies {
+    bottom: 660px;
+}
